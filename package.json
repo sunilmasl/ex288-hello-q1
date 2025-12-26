@@ -1,14 +1,14 @@
 {
   "name": "node-hello",
   "version": "1.0.0",
-  "description": "hello",
+  "description": "hello Sunil",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnpapa/node-hello.git
+    "url": "git+https://github.com/johnpapa/node-hello.git",
   },
   "keywords": [],
   "author": "",
